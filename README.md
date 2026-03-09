@@ -9,7 +9,7 @@ In Tyche, we believe good marketing should feel human. That’s why we act as pa
 •	Doha Youssif Hasib Hassan
 •	Faten Hossam Eldin Hamed Abdelhamed Badr
 •	Samah Mahmoud Hassan El Sherif
-•	Sherin Magdy Rasha Osman ( Team Leader) 
+•	Sherin Magdy Rashad Osman ( Team Leader) 
 # Instructor Name : Eng/ Momen Elbadry
 # Google Link :
 https://drive.google.com/drive/u/0/folders/1Kn752e9xhzgwlED7M-ZaLflUhCgdHZHG 
