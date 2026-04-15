@@ -5,12 +5,12 @@ Our work blends creativity with data, covering social media management, content 
 
 In Tyche, we believe good marketing should feel human. That’s why we act as partners, not just service providers, supporting our clients with honest communication, thoughtful strategy, and marketing that actually works.
 # Team Members :
-#•	Ahmed Moustafa Ahmed Mohammed  (Market Research & Content Creation): Conducted PEST analysis, created one week of content ( Ideas,posters & reels using AI), and contributed to website creation.
-#•	Doha Youssif Hasib Hassan(Strategy & Content Creation): Developed a buyer persona, worked on the marketing mix, and created one week of content ( Ideas,posters & reels using AI).
-#•	Faten Hossam Eldin Hamed Abdelhamed Badr (Analysis & Content Creation): Created a buyer persona, conducted SWOT analysis, and developed one week of content ( Ideas, posters & reels using AI).
-#•	Samah Mahmoud Hassan El Sherif (Competitive Analysis & Media Buying): Performed competitor analysis, handled one week of content creation ( Ideas, posters & reels using AI), and managed Meta Ads.
-#•	Sherin Magdy Rashad Osman ( Team Leader) ( Branding & Creative Direction): Led the team, worked on the marketing mix, handled branding and design, and created one week of content (ideas, posters & reels using AI).
-#All team members collaboratively developed the agency’s vision, mission, and goals.
+# Ahmed Moustafa Ahmed Mohammed  (Market Research & Content Creation): Conducted PEST analysis, created one week of content ( Ideas,posters & reels using AI), and contributed to website creation.
+# Doha Youssif Hasib Hassan(Strategy & Content Creation): Developed a buyer persona, worked on the marketing mix, and created one week of content ( Ideas,posters & reels using AI).
+# Faten Hossam Eldin Hamed Abdelhamed Badr (Analysis & Content Creation): Created a buyer persona, conducted SWOT analysis, and developed one week of content ( Ideas, posters & reels using AI).
+# Samah Mahmoud Hassan El Sherif (Competitive Analysis & Media Buying): Performed competitor analysis, handled one week of content creation ( Ideas, posters & reels using AI), and managed Meta Ads.
+# Sherin Magdy Rashad Osman ( Team Leader) ( Branding & Creative Direction): Led the team, worked on the marketing mix, handled branding and design, and created one week of content (ideas, posters & reels using AI).
+# All team members collaboratively developed the agency’s vision, mission, and goals.
 # Instructor Name : Eng/ Momen Elbadry
 # Google Link :
 https://drive.google.com/drive/u/0/folders/1Kn752e9xhzgwlED7M-ZaLflUhCgdHZHG 
